@@ -1,0 +1,9 @@
+.wallpaper {
+  height: 80vh;
+  width: 100vw;
+  &__image {
+    height: 80vh;
+    width: 100vw;
+    object-fit: cover;
+  }
+}
